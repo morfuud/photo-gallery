@@ -1,0 +1,39 @@
+body {
+    background-color: #f4f4f4;
+}
+#header {
+    background-color: #092981;
+    color: #fff;
+    min-height: 80px;
+    margin-bottom: 20px;
+}
+
+#footer {
+    background-color: #092981;
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+.author {
+    font-weight: bold;
+    font-size : 16px;
+    color: brown;
+    padding: 20px;
+    background-color: #ccc;
+}
+.body {
+    padding: 20px;
+    background-color: #fff;
+    font-size: 15px;
+}
+.created {
+    font-weight: bold;
+    font-style: italic;
+    font-size : 14px;
+    color: brown;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 20px;
+    background-color: #ccc;
+}
